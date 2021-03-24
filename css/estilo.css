@@ -1,0 +1,14 @@
+.main_cadastro{
+	margin: 30px;
+}
+
+.container{
+	margin: 30px;
+	display: block;
+}
+
+.box{
+	margin: 30px;
+    padding: 20px;
+    display: inline-block;
+}
